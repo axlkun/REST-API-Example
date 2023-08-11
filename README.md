@@ -52,7 +52,7 @@ Simple Laravel 10 REST-API Example
 ```
 ## Documentation
 
-[Documentation](https://linktodocumentation)
+[Documentation](https://documenter.getpostman.com/view/25443512/2s9Xy3sXCB)
 
 ## License
 
